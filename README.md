@@ -1,6 +1,7 @@
 ## My little project to learn the basics of HTML, CSS, JS
-This is a small website/blog for self-presentation, where I talk about myself and my hobbies.
-<ul>Here I will talk about the following things:
+This is a small website/blog for self-presentation, where I talk about myself and my hobbies.<br>
+Here I will talk about the following things:
+<ul>
 <li>where did I study;</li>
 <li>where I worked;</li>
 <li>what I like to do;</li>
